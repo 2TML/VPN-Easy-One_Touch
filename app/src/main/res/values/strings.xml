@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VPN Easy One Click</string>
+    <string name="policy_app_string">App policy</string>
+    <string name="rate_app_string">Rate app</string>
+    <string name="share_app_string">Share app to friend</string>
+    <string name="infor_app_string">App information</string>
+</resources>
