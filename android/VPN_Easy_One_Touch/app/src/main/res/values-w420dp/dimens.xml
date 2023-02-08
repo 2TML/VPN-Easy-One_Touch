@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="dp200">200dp</dimen>
-    <dimen name="dp300">300dp</dimen>
-    <dimen name="dp20">20dp</dimen>
-    <dimen name="dp50">50dp</dimen>
-    <dimen name="sp22">22sp</dimen>
-    <dimen name="dp10">10dp</dimen>
-</resources>
