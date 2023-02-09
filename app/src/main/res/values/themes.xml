@@ -16,4 +16,12 @@
     <style name="Style_TextView">
         <item name="fontFamily">@font/roboto_regular</item>
     </style>
+
+
+    <style name="NotificationScreenDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowEnterAnimation">@anim/slide_down_notification_top</item>
+        <item name="android:windowExitAnimation">@anim/slide_up_notification_top</item>
+    </style>
 </resources>

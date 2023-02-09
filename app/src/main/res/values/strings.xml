@@ -4,4 +4,6 @@
     <string name="rate_app_string">Rate app</string>
     <string name="share_app_string">Share app to friend</string>
     <string name="infor_app_string">App information</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
