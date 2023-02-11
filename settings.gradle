@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "VPN_Easy_One_Click"
-include ':app'
+include ':app', ':vpnLib'

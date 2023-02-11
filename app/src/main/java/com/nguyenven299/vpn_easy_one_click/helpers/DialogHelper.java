@@ -1,4 +1,4 @@
-package com.nguyenven299.vpn_easy_one_click;
+package com.nguyenven299.vpn_easy_one_click.helpers;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -15,6 +15,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.nguyenven299.vpn_easy_one_click.R;
 
 public class DialogHelper {
     private static DialogHelper instance;
